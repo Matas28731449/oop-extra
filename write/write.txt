@@ -1,0 +1,152 @@
+URL addresses: 
+'https://www.englishclub.com/reading/cr-tiger-tiger.php' in the row: 1
+'https://www.vu.lt/' in the row: 30
+
+'And' repeated 3 times:
+Line 12, time(-s) 1
+Line 14, time(-s) 1
+Line 23, time(-s) 1
+
+'Could' repeated 2 times:
+Line 5, time(-s) 1
+Line 13, time(-s) 1
+
+'Dare' repeated 2 times:
+Line 20, time(-s) 1
+Line 31, time(-s) 1
+
+'Did' repeated 2 times:
+Line 24, time(-s) 1
+Line 25, time(-s) 1
+
+'In' repeated 4 times:
+Line 3, time(-s) 1
+Line 7, time(-s) 1
+Line 18, time(-s) 1
+Line 28, time(-s) 1
+
+'Tiger' repeated 4 times:
+Line 2, time(-s) 2
+Line 27, time(-s) 2
+
+'What' repeated 6 times:
+Line 4, time(-s) 1
+Line 10, time(-s) 1
+Line 15, time(-s) 1
+Line 17, time(-s) 1
+Line 19, time(-s) 1
+Line 29, time(-s) 1
+
+'and' repeated 2 times:
+Line 12, time(-s) 1
+Line 15, time(-s) 1
+
+'bright' repeated 2 times:
+Line 2, time(-s) 1
+Line 27, time(-s) 1
+
+'burning' repeated 2 times:
+Line 2, time(-s) 1
+Line 27, time(-s) 1
+
+'dare' repeated 2 times:
+Line 9, time(-s) 1
+Line 10, time(-s) 1
+
+'dread' repeated 3 times:
+Line 15, time(-s) 2
+Line 19, time(-s) 1
+
+'eye' repeated 2 times:
+Line 4, time(-s) 1
+Line 29, time(-s) 1
+
+'fearful' repeated 2 times:
+Line 5, time(-s) 1
+Line 31, time(-s) 1
+
+'fire' repeated 2 times:
+Line 8, time(-s) 1
+Line 10, time(-s) 1
+
+'forests' repeated 2 times:
+Line 3, time(-s) 1
+Line 28, time(-s) 1
+
+'frame' repeated 2 times:
+Line 5, time(-s) 1
+Line 31, time(-s) 1
+
+'hand' repeated 4 times:
+Line 4, time(-s) 1
+Line 10, time(-s) 1
+Line 15, time(-s) 1
+Line 29, time(-s) 1
+
+'he' repeated 3 times:
+Line 9, time(-s) 1
+Line 24, time(-s) 1
+Line 25, time(-s) 1
+
+'heart' repeated 2 times:
+Line 13, time(-s) 1
+Line 14, time(-s) 1
+
+'immortal' repeated 2 times:
+Line 4, time(-s) 1
+Line 29, time(-s) 1
+
+'night' repeated 2 times:
+Line 3, time(-s) 1
+Line 28, time(-s) 1
+
+'of' repeated 4 times:
+Line 3, time(-s) 1
+Line 8, time(-s) 1
+Line 13, time(-s) 1
+Line 28, time(-s) 1
+
+'or' repeated 3 times:
+Line 4, time(-s) 1
+Line 7, time(-s) 1
+Line 29, time(-s) 1
+
+'symmetry' repeated 2 times:
+Line 5, time(-s) 1
+Line 31, time(-s) 1
+
+'the' repeated 13 times:
+Line 3, time(-s) 2
+Line 8, time(-s) 1
+Line 10, time(-s) 2
+Line 13, time(-s) 1
+Line 17, time(-s) 2
+Line 19, time(-s) 1
+Line 22, time(-s) 1
+Line 25, time(-s) 1
+Line 28, time(-s) 2
+
+'their' repeated 2 times:
+Line 22, time(-s) 1
+Line 23, time(-s) 1
+
+'thy' repeated 5 times:
+Line 5, time(-s) 1
+Line 13, time(-s) 1
+Line 14, time(-s) 1
+Line 18, time(-s) 1
+Line 31, time(-s) 1
+
+'to' repeated 2 times:
+Line 14, time(-s) 1
+Line 24, time(-s) 1
+
+'what' repeated 8 times:
+Line 7, time(-s) 1
+Line 9, time(-s) 1
+Line 12, time(-s) 2
+Line 15, time(-s) 1
+Line 17, time(-s) 1
+Line 18, time(-s) 1
+Line 19, time(-s) 1
+
