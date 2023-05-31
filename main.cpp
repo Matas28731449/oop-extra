@@ -19,14 +19,15 @@ void read(map< string, map< size_t, size_t > > &references, map< string, size_t 
             getline(in, row); // reading a line from the file
             stringstream ss_in(row); // creating a stringstream object from the line
             while(ss_in >> word) { // extracting words from the stringstream
-                if(regex_match(word, regex("[(http(s)?):\\/\\/(www\\.)?a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)"))) {
+                if(regex_match(word, regex("[(http(s)?):\\/\\/(www\\.)?a-zA-Z0-9@:%._\\+~#=]{2,256}\\.(?!jpg|svg|img|png)[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)"))) {
                     link_list.insert(pair<string, int>(word, row_number)); // inserting the link and row number into the link_list map if it matches the regex
                 }
                 else {
                     auto it = remove_if(word.begin(), word.end(),
                     [](const char symbol) { // using a lambda function to remove certain symbols from the word
-                        return symbol == '.' || symbol == ':' || symbol == ',' || symbol == ';' ||
-                               symbol == '-' || symbol == '(' || symbol == ')' || symbol == '!' || symbol == '?';
+                        return symbol == '.' || symbol == ':' || symbol == ',' || symbol == ';' || symbol == '-' ||
+                               symbol == '"' || symbol == '(' || symbol == ')' || symbol == '!' || symbol == '?' ||
+                               symbol == '$' || symbol == '%' ;
                     });
                     word.erase(it, word.end()); // erasing the symbols from the word
                 }
