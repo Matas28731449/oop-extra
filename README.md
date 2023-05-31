@@ -2,7 +2,7 @@
 
 **Motivation**
 
-The purpose of this task is to examine associative containers and create a program which would select URL links and repeated words from a given text.
+The purpose of this task is to examine associative containers, i.e. those that "sort" the elements when they are written into the container are more appropriate and efficient compared to sequence containers. The program must be formed out of a simple user interface and a main function which would select URL links and repeated words from a given text.
 
 **Installation process:**
 
